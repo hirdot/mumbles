@@ -18,8 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: もごもごとしたこと
-email: nothing
+title: まむぶるず
 description: Mumble程度のひとりごと
 baseurl: "/mumbles" # the subpath of your site, e.g. /blog
 url: "https://hirdot.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
