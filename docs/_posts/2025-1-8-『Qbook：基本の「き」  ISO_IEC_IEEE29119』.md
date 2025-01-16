@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "読書メモ：『Qbook：基本の「き」  ISO/IEC/IEEE29119』"
+date:   2025-1-8 11:18:11 +0900
+categories: テスト
+---
+
 ## ISO/IEC/IEEE 29119の全体構成
 
 ### 29119規格とは？
